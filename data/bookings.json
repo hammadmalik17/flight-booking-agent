@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "name": "Tony Stark",
+      "email": "ironman@starkindustries.ai"
+    },
+    "flight": {
+      "flight_number": "6E203",
+      "airline": "IndiGo",
+      "destination": "Delhi",
+      "date": "2025-06-02",
+      "price": 5200
+    }
+  }
+]
